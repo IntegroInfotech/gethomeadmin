@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "905050463130",
+    "firebase_url": "https://gethome-20f71.firebaseio.com",
+    "project_id": "gethome-20f71",
+    "storage_bucket": "gethome-20f71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905050463130:android:036b8e4547c01c16b1b823",
+        "android_client_info": {
+          "package_name": "com.gethome.gethomeadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905050463130-3fr6cmlsgmh9fuudoic9aqm833bae7oc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gethome.gethomeadmin",
+            "certificate_hash": "69f0318604fb3e8e93e65dc3a3708a427e135832"
+          }
+        },
+        {
+          "client_id": "905050463130-i3ckhb3b1cetch8tlgncp7icmmevvn4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBEvxE7T72xEtTPH_ysl4pYUIjGxLpeII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905050463130-i3ckhb3b1cetch8tlgncp7icmmevvn4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
